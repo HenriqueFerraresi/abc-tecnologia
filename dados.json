@@ -1,0 +1,42 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "titulo": "Programador Java"
+    },
+    {
+      "id": 2,
+      "titulo": "Dev. Front-End"
+    },
+    {
+      "id": 3,
+      "titulo": "Analista de Dados"
+    }
+  ],
+  "Candidatos": [
+    {
+      "nome": "Henrique",
+      "data": "1992-05-23",
+      "telefone": "11 2222 3333",
+      "email": "henrique.ferraresi@hotmail.com",
+      "vaga": "Dev. Front-End",
+      "id": 1
+    },
+    {
+      "nome": "jessica",
+      "data": "1994-06-28",
+      "telefone": "11 4444 5555",
+      "email": "jessicamiro@hotmail.com",
+      "vaga": "Analista de Dados",
+      "id": 2
+    },
+    {
+      "nome": "marcia",
+      "data": "2222-02-11",
+      "telefone": "55 5555-6666",
+      "email": "marciaferraresi@hotmail.com",
+      "vaga": "Analista de Dados",
+      "id": 3
+    }
+  ]
+}
