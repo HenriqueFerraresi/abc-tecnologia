@@ -57,6 +57,10 @@ footer {
     margin-right: 10px;
 }
 
+.youtube { 
+    max-width: 100%;
+}
+
 @media screen and (max-width: 600px){
     .treinamentos { flex-direction: column;}
     .treinamentos section {
